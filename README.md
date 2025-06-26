@@ -4,7 +4,7 @@ Internship Project – Prodigy Infotech
 
 📌 Overview  
 This project is part of my internship at Prodigy Infotech under the domain of Generative AI.  
-In this task, I explored how to generate text using a simple Markov Chain algorithm. The system learns word transition patterns from a given dataset (`alice.txt`) and produces new, human-like sentences in a book-style format.
+In this task, I explored how to generate text using a simple Markov Chain algorithm. The system learns word transition patterns from a given dataset (`alice_in_wonderland.txt`) and produces new, human-like sentences in a book-style format.
 
 🎯 Objectives  
 - Understand and implement a basic Markov Chain model for text generation  
