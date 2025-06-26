@@ -1,5 +1,5 @@
 
-🎨 Task 03 – Markov Chain Text Generation  
+🎨 Task 03 – Markov Chain Text Generation
 Internship Project – Prodigy Infotech
 
 📌 Overview  
