@@ -50,8 +50,8 @@ A probabilistic model that predicts the next word based on the previous one or m
 
 📬 Connect With Me  
   Tanmay Margaj  
-  🔗 www.linkedin.com/in/tanmay-margaj-5598542bb
-  📧 tanmaymargaj35@gmail.com
+  🔗 [LinkedIN]https://www.linkedin.com/in/tanmay-margaj-5598542bb
+  💻 [GitHub Profile](https://github.com/TanmayMargaj35)
 
 🏷️ Tags  
 #GenerativeAI #MarkovChain #Internship #TextGeneration #AIProject #ProdigyInfotech
